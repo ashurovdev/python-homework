@@ -1,0 +1,8 @@
+Word count report
+Total words: 200
+Top 5 words:
+the - 10
+lorem - 7
+ipsum - 7
+of - 7
+a - 7
